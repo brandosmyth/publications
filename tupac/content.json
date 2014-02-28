@@ -1,0 +1,143 @@
+{
+  "id": "b3c6f1f9d827fc737eca85255f171ccf",
+  "schema": [
+    "substance-article",
+    "0.3.0"
+  ],
+  "nodes": {
+    "document": {
+      "id": "document",
+      "type": "document",
+      "views": [
+        "content",
+        "figures",
+        "citations"
+      ],
+      "guid": "b3c6f1f9d827fc737eca85255f171ccf",
+      "creator": "",
+      "title": "Tupac",
+      "authors": [
+        "contributor_1"
+      ],
+      "abstract": "",
+      "created_at": "2014-02-28T19:48:23.148Z",
+      "updated_at": "2014-02-28T19:58:54.782Z",
+      "published_on": "2014-02-28T19:58:54.781Z"
+    },
+    "cover": {
+      "id": "cover",
+      "type": "cover",
+      "authors": []
+    },
+    "content": {
+      "type": "view",
+      "id": "content",
+      "nodes": [
+        "cover",
+        "text1",
+        "73885c60a904ecde9fa16d927d2e1035",
+        "heading_0754b6e9a781d12e93a51fd0e9a0d7d9",
+        "79ce493a3f51e0e2d0b81b124a8c1ca4",
+        "52a011b76d9e7db60923002fe3fcc368",
+        "heading_7f78d0dc908da454a7a6be31db892590",
+        "8b13a19b82ba27077c052687b85cbc8c"
+      ]
+    },
+    "figures": {
+      "type": "view",
+      "id": "figures",
+      "nodes": [
+        "figure_e41d70eb9d55c355106a907399e79e6b"
+      ]
+    },
+    "remarks": {
+      "type": "view",
+      "id": "remarks",
+      "nodes": []
+    },
+    "errors": {
+      "type": "view",
+      "id": "errors",
+      "nodes": []
+    },
+    "info": {
+      "type": "view",
+      "id": "info",
+      "nodes": [
+        "contributor_1"
+      ]
+    },
+    "text1": {
+      "type": "text",
+      "id": "text1",
+      "content": "This is just a test composite. "
+    },
+    "contributor_1": {
+      "type": "contributor",
+      "id": "contributor_1",
+      "name": "S. Brandon Smith",
+      "role": "author",
+      "organization": "No One, Inc.",
+      "image": "",
+      "email": "stevenbrandonsmith@gmail.com"
+    },
+    "52a011b76d9e7db60923002fe3fcc368": {
+      "type": "text",
+      "id": "52a011b76d9e7db60923002fe3fcc368",
+      "source_id": "",
+      "content": ""
+    },
+    "8b13a19b82ba27077c052687b85cbc8c": {
+      "type": "text",
+      "id": "8b13a19b82ba27077c052687b85cbc8c",
+      "source_id": "",
+      "content": ""
+    },
+    "73885c60a904ecde9fa16d927d2e1035": {
+      "type": "text",
+      "id": "73885c60a904ecde9fa16d927d2e1035",
+      "source_id": "",
+      "content": ""
+    },
+    "heading_0754b6e9a781d12e93a51fd0e9a0d7d9": {
+      "type": "heading",
+      "id": "heading_0754b6e9a781d12e93a51fd0e9a0d7d9",
+      "source_id": "",
+      "content": "Sample first heading.",
+      "level": 1
+    },
+    "text_88fd12f004ec67f14dc452f06635c190": {
+      "type": "text",
+      "id": "text_88fd12f004ec67f14dc452f06635c190",
+      "source_id": "",
+      "content": "And although nice to the new women in his life, a complete jerk to all others."
+    },
+    "figure_e41d70eb9d55c355106a907399e79e6b": {
+      "type": "figure",
+      "id": "figure_e41d70eb9d55c355106a907399e79e6b",
+      "image": "figure_e41d70eb9d55c355106a907399e79e6b.png",
+      "image_url": "",
+      "label": "Figure 1",
+      "caption": "text_88fd12f004ec67f14dc452f06635c190"
+    },
+    "figure_e41d70eb9d55c355106a907399e79e6b.png": {
+      "type": "file",
+      "id": "figure_e41d70eb9d55c355106a907399e79e6b.png",
+      "version": 1,
+      "content_type": "image/png"
+    },
+    "79ce493a3f51e0e2d0b81b124a8c1ca4": {
+      "type": "text",
+      "id": "79ce493a3f51e0e2d0b81b124a8c1ca4",
+      "source_id": "",
+      "content": "Indeed it could be said that of these three kings, Only two are noteable for there successes. "
+    },
+    "heading_7f78d0dc908da454a7a6be31db892590": {
+      "type": "heading",
+      "id": "heading_7f78d0dc908da454a7a6be31db892590",
+      "source_id": "",
+      "content": "Second Heading. ",
+      "level": 1
+    }
+  }
+}
